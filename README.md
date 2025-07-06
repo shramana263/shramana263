@@ -1,6 +1,6 @@
 # 💫 Shramana Show
 A passionate developer from India. Enthusiastic about the new and emerging technologies.
-I'm currently learning Express JS, TypeScript, MongoDB
+I'm currently focusing on Next.js , React Native and DSA.
 
 
 ## 🌐 Socials:
